@@ -1,0 +1,13 @@
+body{
+    background-image: url('1.jpg');
+    background-size: cover;
+}
+
+td{
+    font-weight: 1000;
+    color: whitesmoke;
+}
+
+table{
+    border: 2px solid whitesmoke;
+}
